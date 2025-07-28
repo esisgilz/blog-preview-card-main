@@ -47,9 +47,6 @@ Users should be able to:
 
 Ive learnt to use variables, filters and transitions in css a bit better :D
 
-To see how you can add code snippets, see below:
-
-
 ```css
 :root{
     --font-family: "Figtree", sans-serif;
