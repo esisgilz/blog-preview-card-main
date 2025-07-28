@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [(https://esisgilz.github.io/blog-preview-card-main/)]
+- Live Site URL: https://esisgilz.github.io/blog-preview-card-main/
 
 ## My process
 
